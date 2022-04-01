@@ -78,3 +78,36 @@ a border/diplomatic incident
 - 실패한 테스트 실행 Confirmation testing
 - 수정으로 인한 새로운 버그, 변경되지 않은 부분에서 수정 사항과 연관된 버그 Regression testing
 
+결함 유형
+- 기획시 유입된 결함
+- 설계시 유입된 결함
+- 코딩시 유입(연관 변수 파악 부족, 예외 사항 고려 부족)
+- 테스트 부족으로 유입
+- 마무리 부족
+
+결함 심각도(severity level)에 따른 분류
+- 치명적(show stopper), 매우 심각(fatal), 심각(no workaround), 보통(workaround), 경미(comsmetic) 	겉치레에 불과한, 허울뿐인 cosmetic case 명사 a small piece of luggage especially for cosmetics
+- critical defects, major dejects, average defects, minor defects, enhancement
+- major, minor, trifle 하찮은 것
+- A, B, C
+결함 심각도와 결함 우선순위는 별개이다.
+- resolve immediately, give high attention, normal queue, low priority
+
+### test exit criteria and reporting
+- 테스트 실행 결과(test logs)가 완료조건에 부합하는지
+- 추가 테스트 필요한지, 명세된 테스트 완료 조건을 변경해야 하는지에 대한 평가 수행
+- 이해관계자에게 배포할 테스트 요약 보고서
+5장
+
+[metrics](https://www.tricentis.com/blog/64-essential-testing-metrics-for-measuring-quality-assurance-success/)
+Metrics는 흔히 Calculate(계산하다),
+Compute(산출하다),
+Evaluate(평가하다),
+Measure(측정하다)와 같이
+'측정을 의미하는 동사'
+Metrics는 측정하는 영역을 뜻하는 명사의 수식을 받기도 하는데,
+예로 Sales Metrics(판매 측정),
+Performance metrics(업무 수행 측정),
+Customer relationship metrics
+(소비자 관계 측정)
+inspection(점검)
