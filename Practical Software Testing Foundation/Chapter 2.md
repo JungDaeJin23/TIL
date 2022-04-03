@@ -30,3 +30,7 @@ thoroughness[θə́:rounis]
 해당 테스팅은 자동화에 적합한 후보이다.
 
 ## maintenace testing
+[migration](http://www.terms.co.kr/migration.htm)
+영향도 분석(impact analysis)
+명세(specifications)
+유지보수는 중요성에 비해 기간이 매우 적게 주어진다.
