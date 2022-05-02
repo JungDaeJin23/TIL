@@ -21,3 +21,19 @@
 
 test harnesses([Tool](https://www.tutorialspoint.com/what-is-a-test-harness-tools-examples)) = test driver + test stub https://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=3717
 테스트를 진행하기 위한 환경의 일부분으로, 단위 시험이나 모듈 시험에 사용하기 위해 만든 상위의 임시 모듈이다.
+
+# 실전 문제
+[TPI, TMMi](http://tryqa.com/software-testing-process-improvement-models-tmmi-tpi-next-ctp-step/#test_process_improvement_tpi_next)
+소프트웨어 테스팅 개선 모델이다.
+
+
+[test suite](https://en.wikipedia.org/wiki/Test_suite)
+테스트 대상 컴포넌트나 시스템에 사용되는 여러 테스트 케이스의 집합.
+
+테스트 프로세스의 기초 미흡
+1. 테스트 계획과 제어
+2. 테스트 분석과 설계
+3. 테스트 구현과 실행
+4. 테스트 완료 조건과 리포팅
+5. 테스트 마감 활동
+각 단계별 무슨 요소가 있는지 학습
