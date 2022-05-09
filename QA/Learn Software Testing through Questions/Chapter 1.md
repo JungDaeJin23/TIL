@@ -37,3 +37,5 @@ test harnesses([Tool](https://www.tutorialspoint.com/what-is-a-test-harness-tool
 4. 테스트 완료 조건과 리포팅
 5. 테스트 마감 활동
 각 단계별 무슨 요소가 있는지 학습
+
+[Chapter 2](./Chapter 2.md)
